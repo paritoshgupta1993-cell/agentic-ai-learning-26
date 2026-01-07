@@ -1,0 +1,11 @@
+.env
+*.env
+**/*.env
+notebooks/chroma_db/**
+__pycache__/
+*.env
+**/*.env
+*.bin
+**/*.bin
+.DS_Store
+**/.DS_Store
